@@ -2,7 +2,7 @@
 ---
 ## Publication
 
-### Multi Agent Deep Q-Network Approach for Online Job Shop Scheduling in Flexible Manufacturing [***Link***](https://www.researchgate.net/publication/342751420_Multi_Agent_Deep_Q-Network_Approach_for_Online_Job_Shop_Scheduling_in_Flexible_Manufacturing)
+### [Multi Agent Deep Q-Network Approach for Online Job Shop Scheduling in Flexible Manufacturing](https://www.researchgate.net/publication/342751420_Multi_Agent_Deep_Q-Network_Approach_for_Online_Job_Shop_Scheduling_in_Flexible_Manufacturing)
 
 Published in ICMSMM 2020: International Conference on Manufacturing System and Multiple Machines at Tokyo, Japan 
 
