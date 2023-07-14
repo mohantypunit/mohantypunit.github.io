@@ -2,9 +2,10 @@
 ---
 ## Publication
 
-### Multi Agent Deep Q-Network Approach for Online Job Shop Scheduling in Flexible Manufacturing
+### Multi Agent Deep Q-Network Approach for Online Job Shop Scheduling in Flexible Manufacturing [***Link***](https://www.researchgate.net/publication/342751420_Multi_Agent_Deep_Q-Network_Approach_for_Online_Job_Shop_Scheduling_in_Flexible_Manufacturing)
 
-ICMSMM 2020: International Conference on Manufacturing System and Multiple Machines at Tokyo, Japan ***Multi Agent Deep Q-Network Approach for Online Job Shop Scheduling in Flexible Manufacturing***](https://www.researchgate.net/publication/342751420_Multi_Agent_Deep_Q-Network_Approach_for_Online_Job_Shop_Scheduling_in_Flexible_Manufacturing)
+Published in ICMSMM 2020: International Conference on Manufacturing System and Multiple Machines at Tokyo, Japan 
+
 
 <!-- My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
 
@@ -107,4 +108,4 @@ ICMSMM 2020: International Conference on Manufacturing System and Multiple Machi
 - [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
 
 --- -->
-<center>© 2023 Punit Kumar Mohanty. Powered by Jekyll and the Minimal Theme.</center>
+<!-- <center>© 2023 Punit Kumar Mohanty. Powered by Jekyll and the Minimal Theme.</center> -->
