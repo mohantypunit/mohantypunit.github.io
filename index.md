@@ -7,13 +7,33 @@
 Published in ICMSMM 2020: International Conference on Manufacturing System and Multiple Machines at Tokyo, Japan 
 
 ---
-## MLOps Projects
+## DevOps Projects
+
+Project: [**GitOps with GitHubActions**]
+Description: This project is a practical implementation of GitOps using Terraform, Kubernetes, GitHub Actions, and Docker, AWS, EKS. It's designed to provide hands-on experience with DevOps practices, following guidelines from "Kubernetes Best Practices" by Brendan Burns. The project includes infrastructure setup and application deployment.
+
+Technologies: Terraform, Kubernetes, GitHub Actions, Docker, AWS, EKS, DockerHub, GitHub Packages.
+    
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mohantypunit/pp01)
+
+
+
+_More projects coming soon..._
+<!--  
+Project: [**GitOps with Flux**]
+Description: This project is a a demonstration of using Flux to implement GitOps using the similar principle
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mohantypunit/pp02)
+-->
+
+
+
+<!-- ## MLOps Projects
 
 ### Rick Sanchez Dialogue Generation with DialoGPT
 
 This project demostrates MLOps concepts applied to a chatbot that responds in the style of Rick Sanchez. This project is using machine learning tasks explained in a Towards Data Science article by Rostyslav Neskorozhenyi ([link](https://towardsdatascience.com/make-your-own-rick-sanchez-bot-with-transformers-and-dialogpt-fine-tuning-f85e6d1f4e30))
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mohantypunit/rick-morty-chatbot)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mohantypunit/rick-morty-chatbot) -->
 
 <!-- My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
 
