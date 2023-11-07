@@ -11,7 +11,7 @@ Published in ICMSMM 2020: International Conference on Manufacturing System and M
 
 **GitOps with GitHubActions**
 
-*Description*: This project is a practical implementation of GitOps using Terraform, Kubernetes, GitHub Actions, and Docker, AWS, EKS. It's designed to provide hands-on experience with DevOps practices, following guidelines from "Kubernetes Best Practices" by Brendan Burns. The project includes infrastructure setup and application deployment.
+*Description*: This project is a practical implementation of GitOps using Terraform, Kubernetes, GitHub Actions, and Docker, AWS, EKS. It's designed to provide hands-on experience with DevOps practices, following guidelines from "Practical GitOps" by Rohit Salecha. The project includes infrastructure setup and application deployment.
 
 *Technologies*: Terraform, Kubernetes, GitHub Actions, Docker, AWS, EKS, DockerHub, GitHub Packages.
     
