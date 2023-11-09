@@ -20,11 +20,11 @@ Published in ICMSMM 2020: International Conference on Manufacturing System and M
 ---
 ## MLOps Projects
 
-:construction_worker: Under Planning Phase! 
+_Under Planning Phase!_ 
 
 ---
 
-_*Upcoming Projects*_
+_Upcoming Projects_
  
 **GitOps with Flux** :large_yellow_circle:
 Description: This project is a demonstration of using Flux to implement GitOps using the manifest files whille following the udemy course "FluxCD Mastery: Automating Kubernetes with GitOps" by Ahmed Elfakharany.
