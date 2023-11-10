@@ -18,11 +18,6 @@ Published in ICMSMM 2020: International Conference on Manufacturing System and M
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mohantypunit/pp01)
 
 ---
-## MLOps Projects
-
-_Under Planning Phase!_ 
-
----
 
 _Upcoming Projects_
  
@@ -31,6 +26,13 @@ _Upcoming Projects_
 *Description*: This project is a demonstration of using Flux to implement GitOps using the manifest files whille following the udemy course "FluxCD Mastery: Automating Kubernetes with GitOps" by Ahmed Elfakharany.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mohantypunit/pp02)
+
+---
+## MLOps Projects
+
+_Under Planning Phase!_ 
+
+
 
 
 
