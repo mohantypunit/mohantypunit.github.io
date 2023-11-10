@@ -27,6 +27,7 @@ _Under Planning Phase!_
 _Upcoming Projects_
  
 **GitOps with Flux**
+
 Description: This project is a demonstration of using Flux to implement GitOps using the manifest files whille following the udemy course "FluxCD Mastery: Automating Kubernetes with GitOps" by Ahmed Elfakharany.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mohantypunit/pp02)
