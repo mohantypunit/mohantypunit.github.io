@@ -9,7 +9,7 @@ Published in ICMSMM 2020: International Conference on Manufacturing System and M
 ---
 ## AI Projects (Latest)
 
-### KI-gestützte Risikoanalyse aus Unternehmensdokumenten
+### AI-supported riskanalysis from company documents 
 
 *Description*: I built an AI-based system for automated risk analysis that processes contracts, shareholder structures, and annual financial statements. The system extracts relevant information, answers predefined risk questions, and generates an editable risk matrix with direct source references (audit trail) to the original documents.
 
@@ -20,7 +20,7 @@ Published in ICMSMM 2020: International Conference on Manufacturing System and M
 
 ---
 
-### Automatisiertes LLM-Benchmarking-Framework (Python)
+### Automated LLM model benchmarking framework (Python)
 
 *Description*: I developed an automated benchmarking framework in Python to systematically evaluate and compare different LLMs. The tool runs standardized test cycles (including varying model/bot parameters), produces structured rankings using defined quality metrics, and provides reusable benchmark templates so teams can configure new test cases without additional coding effort.
 
@@ -31,7 +31,7 @@ Published in ICMSMM 2020: International Conference on Manufacturing System and M
 
 ---
 
-### Self-Service KI-Plattform für Fachabteilungen
+### Self-Service AI-platform for different departments 
 
 *Description*: I built backend tools and chatbot interfaces within an internal AI platform that enabled business teams to configure their own document bots (e.g., contract review, compliance checks, due diligence Q&A) without needing developer support each time.
 
