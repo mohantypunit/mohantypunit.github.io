@@ -7,7 +7,22 @@
 Published in ICMSMM 2020: International Conference on Manufacturing System and Multiple Machines at Tokyo, Japan 
 
 ---
+## Talks/Presentations
+
+### Responsible and Intelligent Use of Artificial Intelligence
+at [Odisha University of Technology and Research, Bhubaneswar, India](https://outr.ac.in/) (Feb 2026)
+
+### Democratizing AI: Empowering the Next Generation
+at [United School of Business Management, Bhubaneswar, India](https://usbm.ac.in/) (Feb 2026)
+
+---
 ## AI Projects (Latest)
+
+### LightRAG Knowledge Graph Pipeline
+
+*Description*: A flexible knowledge graph ingestion and retrieval system built on [LightRAG](https://github.com/HKUDS/LightRAG). This project enables you to ingest documents, extract entities and relationships into a knowledge graph, and perform intelligent retrieval-augmented generation (RAG) queries.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mohantypunit/lightrag)
 
 ### AI-supported riskanalysis from company documents 
 
