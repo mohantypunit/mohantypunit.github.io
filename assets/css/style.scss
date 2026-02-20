@@ -22,11 +22,10 @@ header p, header li, header a {
 
 /* Optional: slightly smaller photo so more bio fits */
 header img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
   max-width: 160px;
   height: auto;
+
+  /* center the image */
+  display: block;
+  margin: 0 auto;
 }
-
-
