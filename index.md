@@ -16,7 +16,7 @@ at [Odisha University of Technology and Research, Bhubaneswar, India](https://ou
 at [United School of Business Management, Bhubaneswar, India](https://usbm.ac.in/) (Feb 2026)
 
 ---
-## AI Projects (Latest)
+## AI Operational Systems (Production)
 
 ### LightRAG Knowledge Graph Pipeline
 
@@ -27,6 +27,8 @@ at [United School of Business Management, Bhubaneswar, India](https://usbm.ac.in
 ### AI-supported riskanalysis from company documents 
 
 *Description*: I built an AI-based system for automated risk analysis that processes contracts, shareholder structures, and annual financial statements. The system extracts relevant information, answers predefined risk questions, and generates an editable risk matrix with direct source references (audit trail) to the original documents.
+
+Used internally to automate knowledge-intensive compliance workflows that previously relied on manual SME-driven document analysis.
 
 *Measurable impact*:
 - Reduced manual analysis effort per case from ~6–8 hours to ~1–1.5 hours (~75% time savings)
@@ -48,7 +50,7 @@ at [United School of Business Management, Bhubaneswar, India](https://usbm.ac.in
 
 ### Self-Service AI-platform for different departments 
 
-*Description*: I built backend tools and chatbot interfaces within an internal AI platform that enabled business teams to configure their own document bots (e.g., contract review, compliance checks, due diligence Q&A) without needing developer support each time.
+*Description*: I built backend tools and chatbot interfaces within an internal AI platform that enabled business teams to configure domain-specific document-processing agents without requiring developer support.
 
 *Measurable impact*:
 - Launched 30+ productive business bots within a few months
