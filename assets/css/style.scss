@@ -2,3 +2,19 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+/* === FIX: Make left sidebar scrollable so text is not cut off === */
+header {
+  height: 100vh;
+  overflow-y: auto;
+}
+
+/* Keep sidebar fixed on desktop */
+@media screen and (min-width: 960px) {
+  header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+  }
+}
